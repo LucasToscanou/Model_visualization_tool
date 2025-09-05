@@ -180,4 +180,3 @@ with tab2:
             st.subheader("Distribution of Image Widths")
             st.bar_chart(df['Width'])
     else: st.info("No images to analyze.")
-```eof
